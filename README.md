@@ -21,3 +21,7 @@ file yolov3.cfg
 file yolov3.weights
 file coco.names
 ```
+
+## Reference
+
+- https://pjreddie.com/darknet/yolo/
